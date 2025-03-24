@@ -9,9 +9,12 @@ https://Studio344.github.io/Info
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Studio344" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tsuki-lab&margin-w=5)](https://github.com/Studio344/)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Studio344&margin-w=5)](https://github.com/Studio344/)
 
-<!-- https://github.com/tandpfun/skill-icons#readme -->
+<!-- Thanks to 
+https://zenn.dev/chot/articles/3421ec6f622f82
+https://github.com/tandpfun/skill-icons#readme
+-->
 
 <!--
 **Studio344/Studio344** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
